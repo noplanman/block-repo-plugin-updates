@@ -5,7 +5,7 @@ Donate link: https://noplanman.ch/donate
 Tags: block, repo, repository, plugin, update, dev, developer, development
 Requires at least: 4.7.0
 Tested up to: 5.0.3
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 Requires PHP: 5.4
 Author URI: https://noplanman.ch
 Plugin URI: https://git.feneas.org/noplanman/block-repo-plugin-updates
@@ -17,7 +17,7 @@ Blocks plugin updates for any plugin whose folder looks like a code repo.
 == Description ==
 
 🔒 Blocks plugin updates for any plugin whose folder looks like a code repo. (at the moment only git and Subversion)
-(Based on <a href="https://wordpress.org/plugins/block-specific-plugin-updates/">Block Specific Plugin Updates</a>)
+(Based on [Block Specific Plugin Updates](https://wordpress.org/plugins/block-specific-plugin-updates))
 
 🛠 Intended purely for developers!
 
@@ -25,6 +25,17 @@ Blocks plugin updates for any plugin whose folder looks like a code repo.
 
 🔮 A single filter to extend the list of relative file paths that denote a repo plugin.
 - `brpu_repo_files`: Filter that returns an array of file paths.
+
+= Donate / Support =
+
+All [donations](https://noplanman.ch/donate) are much appreciated, thank you 🙏
+
+[Get professional support for this plugin with a Tidelift subscription](https://tidelift.com/subscription/pkg/wordpress-block-repo-plugin-updates?utm_source=wordpress-block-repo-plugin-updates&utm_medium=referral&utm_campaign=readme)
+*Tidelift helps make open source sustainable for maintainers while giving companies assurances about security, maintenance, and licensing for their dependencies.*
+
+= Security =
+
+To report a security vulnerability, please use the [Tidelift security contact](https://tidelift.com/security). Tidelift will coordinate the fix and disclosure.
 
 == Installation ==
 
@@ -43,5 +54,8 @@ Losing code sucks! Got better stuff to do.
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.1 =
+* Add donation, support and security sections to readme.
+
+= 1.0.0 =
 * First release.
