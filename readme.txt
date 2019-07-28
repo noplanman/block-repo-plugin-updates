@@ -4,8 +4,8 @@ Contributors: noplanman
 Donate link: https://noplanman.ch/donate
 Tags: block, repo, repository, plugin, update, dev, developer, development
 Requires at least: 4.7.0
-Tested up to: 5.0.3
-Stable tag: 1.0.1
+Tested up to: 5.2.2
+Stable tag: 1.0.2
 Requires PHP: 5.4
 Author URI: https://noplanman.ch
 Plugin URI: https://git.feneas.org/noplanman/block-repo-plugin-updates
@@ -17,7 +17,7 @@ Blocks plugin updates for any plugin whose folder looks like a code repo.
 == Description ==
 
 🔒 Blocks plugin updates for any plugin whose folder looks like a code repo. (at the moment only git and Subversion)
-(Based on [Block Specific Plugin Updates](https://wordpress.org/plugins/block-specific-plugin-updates))
+*(Based on [Block Specific Plugin Updates](https://wordpress.org/plugins/block-specific-plugin-updates))*
 
 🛠 Intended purely for developers!
 
