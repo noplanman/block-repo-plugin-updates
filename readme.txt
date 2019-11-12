@@ -1,11 +1,11 @@
-=== Block Repo Plugin Update ===
+=== Block Repo Plugin Updates ===
 
 Contributors: noplanman
 Donate link: https://noplanman.ch/donate
 Tags: block, repo, repository, plugin, update, dev, developer, development
 Requires at least: 4.7.0
-Tested up to: 5.2.2
-Stable tag: 1.0.2
+Tested up to: 5.3
+Stable tag: 1.0.3
 Requires PHP: 5.4
 Author URI: https://noplanman.ch
 Plugin URI: https://git.feneas.org/noplanman/block-repo-plugin-updates
@@ -53,6 +53,12 @@ Losing code sucks! Got better stuff to do.
 😉 `brpu_repo_files`, and remember, it must return an array!
 
 == Changelog ==
+
+= 1.0.3 =
+* Tested up to WordPress 5.3.
+
+= 1.0.2 =
+* Tested up to WordPress 5.2.2.
 
 = 1.0.1 =
 * Add donation, support and security sections to readme.

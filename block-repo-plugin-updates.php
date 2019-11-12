@@ -4,7 +4,7 @@
  * Plugin URI: https://git.feneas.org/noplanman/block-repo-plugin-updates
  * Description: Blocks plugin updates for any plugins whose folder is a code repo. (Based on <a href="https://wordpress.org/plugins/block-specific-plugin-updates/">Block Specific Plugin Updates</a>)
  * Author: Armando Lüscher
- * Version: 1.0.2
+ * Version: 1.0.3
  * Author URI: https://noplanman.ch
  */
 
